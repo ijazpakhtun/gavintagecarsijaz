@@ -1,0 +1,10 @@
+body{
+    font-family: 'Mirza', cursive;
+}
+
+.container{
+    margin-top: 5px;
+}
+.car-image{
+    border-radius: 10%;
+}
